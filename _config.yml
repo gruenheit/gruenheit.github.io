@@ -3,5 +3,5 @@ description: my contact page
 #google_analytics: 
 show_downloads: false
 #theme: jekyll-theme-hacker
-remote_theme: jarrekk/Jalpc
+remote_theme: swanson/lagom
 
