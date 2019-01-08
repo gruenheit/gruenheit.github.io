@@ -1,7 +1,8 @@
 title: Christian Grünheit
 description: my contact page
-#google_analytics: 
 show_downloads: false
 #theme: jekyll-theme-hacker
 ##remote_theme: benbalter/retlab
 remote_theme: brianmaierjr/long-haul
+url: https://c.gruenheit.de
+baseurl: ""
