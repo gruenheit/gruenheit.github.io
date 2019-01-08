@@ -3,4 +3,5 @@ description: my contact page
 #google_analytics: 
 show_downloads: false
 #theme: jekyll-theme-hacker
-remote_theme: Phlow/feeling-responsive
+remote_theme: mmistakes/so-simple-theme
+
