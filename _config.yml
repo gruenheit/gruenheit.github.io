@@ -1,6 +1,6 @@
 title: Christian Grünheit
 description: my contact page
-google_analytics: 
+#google_analytics: 
 show_downloads: false
-theme: jekyll-theme-hacker
-
+#theme: jekyll-theme-hacker
+remote_theme: Phlow/feeling-responsive
