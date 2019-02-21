@@ -7,3 +7,5 @@ show_downloads: false
 remote_theme: jekyller/jasper2
 url: https://c.gruenheit.de
 baseurl: ""
+
+theme: jekyll-theme-architect
