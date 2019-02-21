@@ -1,6 +1,8 @@
 title: christian grünheit
 description: based in kiel …
 show_downloads: false
-remote_theme: mmistakes/minimal-mistakes@4.15.2
+# remote_theme: mmistakes/minimal-mistakes@4.15.2
 url: https://c.gruenheit.de
 baseurl: ""
+
+
