@@ -1,10 +1,9 @@
 title: Christian Grünheit
 description: my contact page
 show_downloads: false
-#theme: jekyll-theme-hacker
 ##remote_theme: benbalter/retlab
 ##remote_theme: brianmaierjr/long-haul
-remote_theme: jekyller/jasper2
+#remote_theme: jekyller/jasper2
 url: https://c.gruenheit.de
 baseurl: ""
 
