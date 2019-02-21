@@ -3,8 +3,8 @@ description: based in kiel …
 show_downloads: false
 ##remote_theme: benbalter/retlab
 ##remote_theme: brianmaierjr/long-haul
-#remote_theme: jekyller/jasper2
+remote_theme: mmistakes/minimal-mistakes@4.15.2
 url: https://c.gruenheit.de
 baseurl: ""
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
