@@ -1,3 +1,4 @@
 
 
-http is odd.
+http is odd. 
+for privacy use https.
