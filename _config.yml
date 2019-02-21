@@ -7,4 +7,4 @@ show_downloads: false
 url: https://c.gruenheit.de
 baseurl: ""
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
