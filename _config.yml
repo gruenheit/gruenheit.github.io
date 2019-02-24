@@ -3,5 +3,9 @@ description: based in kiel
 show_downloads: false
 baseurl: ""
 comments: true
-
+author_profile: true
+google_fonts:
+  - name: "Comfortaa"
+    weights: "400,700"
+    
 
