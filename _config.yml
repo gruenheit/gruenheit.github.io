@@ -8,7 +8,7 @@ layout: home
 paginate: true
 compress_html: true
 clippings: all
-google_fonts
+google_fonts:
 - name: "Comfortaa"
 - weights: "400,700"
 
