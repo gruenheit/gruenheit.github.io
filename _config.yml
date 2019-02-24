@@ -6,8 +6,11 @@ comments: true
 author_profile: true
 layout: home
 paginate: true
-google_fonts:
-  - name: "Comfortaa"
-    weights: "400,700"
+compress_html: true
+clippings: all
+google_fonts
+- name: "Comfortaa"
+- weights: "400,700"
+
     
 
