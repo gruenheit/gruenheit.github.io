@@ -1,7 +1,7 @@
 
 
 http is odd. 
-use https for privacy.
+use <a href="https://en.wikipedia.org/wiki/HTTPS" title="fundamental details about https on wikipedia.org">https</a> for privacy.
 
 you find my current stuff on <a href="https://plexa.de" title="my personal scrapbook">plexa.de</a>.
 
