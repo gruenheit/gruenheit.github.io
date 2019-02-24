@@ -2,8 +2,8 @@ title: christian grünheit
 description: based in kiel
 show_downloads: false
 baseurl: ""
-font: Comfortaa, Arial, cursive
+font: Comfortaa, Arial, sans-serif
 font_heading: Comfortaa, Arial, cursive
-google_fonts: Comfortaa:400,700|Varela+Round:400
+google_fonts: Comfortaa:400
 
 
