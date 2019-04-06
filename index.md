@@ -1,6 +1,6 @@
 
 
-http is odd. Therefore I use <a href="https://en.wikipedia.org/wiki/HTTPS" title="fundamental details about https on wikipedia.org">https</a> for a better privacy.
+http is odd. Therefore I use <a href="https://en.wikipedia.org/wiki/HTTPS" title="fundamental details about https on wikipedia.org">https</a> for a better privacy protection.
 
 I try to avoid Google and it's tracking! Please use <a href="https://about.qwant.com/" title="https://www.honigdachse.de/dienste#suchmaschine">qwant.com</a> and <a href="https://suche.honigdachse.de/" title="https://www.honigdachse.de/dienste#suchmaschine">searchx</a> instead.
 
