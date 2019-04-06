@@ -1,7 +1,8 @@
 
 
 http is odd. 
-use <a href="https://en.wikipedia.org/wiki/HTTPS" title="fundamental details about https on wikipedia.org">https</a> for privacy.
+* I use <a href="https://en.wikipedia.org/wiki/HTTPS" title="fundamental details about https on wikipedia.org">https</a> for privacy.
+* Avoid Google! 
 
 * you find my current stuff on <a href="https://plexa.de" title="my personal scrapbook">plexa.de</a>.
 * follow me on <a href="https://twitter.com/gruenheit" title="@gruenheit">twitter</a>.
