@@ -7,6 +7,8 @@ I try to avoid Google and it's <a href="https://www.wired.co.uk/article/how-to-d
 * you find my current stuff on <a href="https://plexa.de" title="my personal scrapbook">plexa.de</a>.
 * follow me on <a href="https://twitter.com/gruenheit" title="@gruenheit">twitter</a>.
 
+### Happy Ketosis!
+
 I go keto! My motto: It's important what you **dont** eat - avoid carbs! 
 
 
