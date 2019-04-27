@@ -15,5 +15,7 @@ I support #<a href="https://www.qwant.com/?q=%23fridaysforfuture&client=opensear
 I frequently listen to these podcasts
 
 [Logbuch Netzpolitik](https://logbuch-netzpolitik.de/)
+
 Deutschlandfunk Kultur [Breitband](https://www.deutschlandfunkkultur.de/breitband.1263.de.html)
+
 [Debattenpodcast](https://www.spiegel.de/thema/sascha_lobo_podcast/) (by Sascha Lobo)
