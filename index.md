@@ -9,7 +9,7 @@ I try to avoid Google and it's <a href="https://www.wired.co.uk/article/how-to-d
 
 ### Happy Ketosis!
 
-I'm deep in nutrition and fasting! I  eat keto-style try to avoid carbs! 
+I'm deep in nutrition and fasting! Therefore I eat keto-style and try to avoid carbs! 
 
 
 I support #<a href="https://www.qwant.com/?q=%23fridaysforfuture&client=opensearch" title="see current results on qwant">fridaysforfuture</a>.
@@ -19,3 +19,4 @@ I frequently listen to these podcasts
 * [Logbuch Netzpolitik](https://logbuch-netzpolitik.de/)
 * Deutschlandfunk Kultur [Breitband](https://www.deutschlandfunkkultur.de/breitband.1263.de.html)
 * [Debattenpodcast](https://www.spiegel.de/thema/sascha_lobo_podcast/) (by Sascha Lobo)
+
