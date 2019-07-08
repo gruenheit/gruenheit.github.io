@@ -1,0 +1,178 @@
+body {
+    font-family: "Lato", sans-serif;
+    background: linear-gradient(#3F3F3F,#0F0F0F ) no-repeat center center fixed;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    right: 0;
+    background: linear-gradient(#FDB930,#0F0F0F ) no-repeat center center fixed;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    border-left-style: solid;
+}
+
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover, .offcanvas a:focus{
+    color: white;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.centerElement {
+  height: 45%;
+  width: 45%;
+  margin: auto;
+  width: 620px;
+
+}
+
+#btnMenu{
+    margin-top: 50px;
+    color:  #FDB930;
+
+    
+}
+
+
+#main {
+    transition: margin-right .5s;
+    padding: 16px;
+}
+
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid  #FDB930;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+.padding{
+    margin-left: -33px;
+}
+
+p{
+    font-size: 22px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;  
+}
+
+h1{
+    font-size: 50px;
+    color:  #FDB930;
+     text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;  
+   }
+
+h4{
+    font-size: 26px;
+    color:  #FDB930;
+     text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;  
+  
+
+}
+
+p a{
+    color:  #FDB930;
+     text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;  
+}
+
+p a:hover{
+     color: white;
+     text-decoration:none;
+      text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;  
+}
+
+#question{
+    position: fixed;
+    bottom: 75px;
+    right:100px;
+}
+
+a span h4:hover{
+     color: white;
+}
+
+.bruinsClass{
+    background: url(../images/bruins.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.background{
+      background:rgba(0, 0, 0,.6) no-repeat center center fixed;
+}
+
+#hello{
+     position:fixed;
+    top:0;
+     left:0;
+      width: 100%;
+      height: 100%;
+}
+
+.btn{
+    min-width:140px;
+    margin-bottom: 12px;
+
+}
+
