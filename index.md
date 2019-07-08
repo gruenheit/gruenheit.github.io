@@ -12,7 +12,7 @@ You find my current stuff on <a href="https://plexa.de" title="my personal scrap
 I'm deep in nutrition and fasting, therefore I eat <a href="https://de.wikipedia.org/wiki/Ketose_(Stoffwechsel)" title="ketose @wikipedia">keto-style</a> and try to avoid carbs as far as possible!
 
 
-I support #<a href="https://www.qwant.com/?q=%23fridaysforfuture&client=opensearch" title="see current results on qwant">fridaysforfuture</a>.
+I support #<a href="https://fridaysforfuture.de/forderungen/" title="see current results on qwant">fridaysforfuture</a>.
 
 I recommend these podcasts
 
