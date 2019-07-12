@@ -1,6 +1,6 @@
 
 
-<a href="https://en.wikipedia.org/wiki/Moin"><b>Moin</b></a> from Kiel,
+<b><a href="https://en.wikipedia.org/wiki/Moin">Moin</a></b> from Kiel,
 … 
 
 I try to avoid Google and it's <a href="https://www.wired.co.uk/article/how-to-delete-google-search-history-tracking" title="Take back control of all the personal data Google stores about you with our easy-to-follow security tips">tracking</a>, therefore I recommend using <a href="https://suche.honigdachse.de/" title="https://www.honigdachse.de/dienste#suchmaschine">searchx</a> as a privacy enhanced <a href="https://en.wikipedia.org/wiki/Metasearch_engine" title="What the heck is a Metasearch engine? Goto wikipedia to find out…">metasearch</a> engine.
