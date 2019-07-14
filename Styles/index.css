@@ -197,6 +197,7 @@ h1 {
  big {
   font-size:1.2em
  }
+ .einruecken {text-indent: 3em;}
  blockquote {
   font-style:italic;
   position:relative;
