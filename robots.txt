@@ -1,2 +1,7 @@
 User-agent: *
 Disallow: / # keep them (all bots) out
+
+# edited 23.11.19, 11:24
+
+User-agent: Googlebot
+Allow: index.html
