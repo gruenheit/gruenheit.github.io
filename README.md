@@ -1,1 +1,1 @@
-# c.gruenheit.de > with greetings from kiel.
+# c.gruenheit.de > with greetings from kiel
